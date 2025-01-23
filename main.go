@@ -1,9 +1,8 @@
 package main
 
-import "fmt"
-
-const unused = `unusedstr`
-
 func main() {
-	fmt.Println("Hello world! from new branch")
+	i := 1
+	for i <= 3 {
+		i = i + 1
+	}
 }
