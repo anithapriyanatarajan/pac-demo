@@ -3,7 +3,7 @@ package main
 //const unused = `unusedstr`
 
 func main() {
-	for i := 1; i <= 3; i++ {
+	for i := 1; i <= 5; i++ {
 		continue
 	}
 }
